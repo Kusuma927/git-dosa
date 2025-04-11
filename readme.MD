@@ -4,3 +4,5 @@
 # Light oil
 
 # Karam-dosa
+# oil
+# Dosa batter
