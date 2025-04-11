@@ -4,5 +4,7 @@
 # Light oil
 
 # dosa batter
-# eggdosa by suresh
-# added karam by suresh
+<<<<<<< HEAD
+# Eggdosa by ramesh
+# 3eggs
+# oil
