@@ -8,3 +8,9 @@
 # Eggdosa by ramesh
 # 3eggs
 # oil
+
+# special dosa
+*  Dosa Batter
+*  Mumbai Chutney
+*  Podi
+*  Oil
