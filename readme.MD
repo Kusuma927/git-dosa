@@ -8,3 +8,7 @@
 # Eggdosa by ramesh
 # 3eggs
 # oil
+
+# special dosa
+*  Dosa Batter
+
