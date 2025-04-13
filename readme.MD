@@ -11,8 +11,7 @@
 
 # Special Dosa
 * Dosa bater
-* Podi
-<<<<<<< HEAD
+* Pod
 * Oil
-=======
->>>>>>> parent of b6e4ada (Added Mumbai Chutney)
+* Mumbai Chutney
+
