@@ -12,5 +12,7 @@
 # Special Dosa
 * Dosa bater
 * Podi
-* Mumbai Chutne
+<<<<<<< HEAD
 * Oil
+=======
+>>>>>>> parent of b6e4ada (Added Mumbai Chutney)
