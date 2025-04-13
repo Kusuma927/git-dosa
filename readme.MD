@@ -12,3 +12,4 @@
 # special dosa
 *  Dosa Batter
 *  Mumbai Chutney
+*  Podi
