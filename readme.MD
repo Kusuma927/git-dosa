@@ -9,8 +9,12 @@
 # 3eggs
 # oil
 
-# special dosa
-*  Dosa Batter
-*  Mumbai Chutney
-*  Podi
-*  Oil
+<<<<<<< HEAD
+# Special Dosa
+* Dosa bater
+* Pod
+* Oil
+* Mumbai Chutney
+
+
+
